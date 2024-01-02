@@ -1,0 +1,4 @@
+optConfig:
+  optOutStrategy: true
+  optOutPrivateRepos: true
+  optOutPublicRepos: false
