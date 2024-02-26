@@ -1,6 +1,6 @@
 ### OpenTelemetry SIG Maintainers Allstar Onboarding Guide
 
-Welcome, SIG Maintainers! This document serves as a comprehensive guide to onboard your repositories into the Allstar governance framework, part of the Open Source Security Foundation (OpenSSF) initiative to ensure security best practices. Ensuring your repositories are compliant with Allstar checks is a significant step toward maintaining high security standards, which is crucial especially for those looking to graduate within the OpenTelemetry organization.
+Welcome, SIG Maintainers! This document serves as a comprehensive guide to onboard your repositories into the [Allstar](https://github.com/ossf/allstar) governance framework, part of the Open Source Security Foundation (OpenSSF) initiative to ensure security best practices. Ensuring your repositories are compliant with Allstar checks is a significant step toward maintaining high security standards, which is crucial especially for those looking to graduate within the OpenTelemetry organization.
 
 #### Prerequisites
 
