@@ -10,15 +10,15 @@ Before proceeding, ensure you are a SIG maintainer with administrative access to
 
 Allstar enforces various security policies through checks:
 
-- **Security Policy (security.yaml)**: Verifies the presence of a SECURITY.md file for reporting security issues.
-- **Binary Artifacts (binary_artifacts.yaml)**: Prevents binary artifacts in code, with designated exceptions.
-- **Branch Protection (branch_protection.yaml)**: Ensures proper branch protection settings.
-- **GitHub Actions (actions.yaml)**: Monitors for compliance with specific GitHub Action requirements.
-- **Repository Administrators (admin.yaml)**: Checks for adherence to repository administrator guidelines.
+- **Security Policy [security.yaml](https://github.com/open-telemetry/.allstar/blob/main/security.yaml)**: Verifies the presence of a SECURITY.md file for reporting security issues.
+- **Binary Artifacts [binary_artifacts.yaml](https://github.com/open-telemetry/.allstar/blob/main/binary_artifacts.yaml)**: Prevents binary artifacts in code, with designated exceptions.
+- **Branch Protection [branch_protection.yaml](https://github.com/open-telemetry/.allstar/blob/main/branch_protection.yaml)**: Ensures proper branch protection settings.
+- **GitHub Actions [actions.yaml](https://github.com/open-telemetry/.allstar/blob/main/actions.yaml)**: Monitors for compliance with specific GitHub Action requirements.
+- **Repository Administrators [admin.yaml](https://github.com/open-telemetry/.allstar/blob/main/admin.yaml)**: Checks for adherence to repository administrator guidelines.
 
 #### Step 1: Prepare Your Repository
 
-1. **Review Allstar Checks**: Familiarize yourself with the list of Allstar checks and understand what each policy entails.
+1. **[Review Allstar Checks](https://github.com/open-telemetry/.allstar/blob/main/README.md#enforced-policies)**: Familiarize yourself with the list of Allstar checks and understand what each policy entails.
 2. **Compliance**: Ensure your repository complies with the guidelines outlined in each check. This may involve adding a SECURITY.md file, adjusting branch protection rules, managing binary artifacts, setting up specific GitHub Actions, and revising repository administrator privileges.
 
 #### Step 2: Onboarding Request
